@@ -4,3 +4,6 @@
 *.jar
 *.war
 *.ear
+*Icon
+icon
+.DS_Store
